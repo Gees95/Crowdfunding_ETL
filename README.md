@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crowdfunding_ETL Project
 
 #Overview#
@@ -43,3 +44,16 @@ Integrity Checks: After the data import, SELECT statements and other SQL queries
 
 For more detailed instructions on using Pandas for ETL processes, visit the Pandas Documentation.
 To refine skills in SQL for data manipulation and querying within PostgreSQL, the SQL Tutorial on W3Schools provides an excellent resource.
+=======
+# Crowdfunding_ETL
+
+## ETL project to extract and transform data from 1000 crowdfunding sample projects
+
+Deliverables:
+  * Category DataFrame
+  * Subcategory DataFrame
+  * Campaign DataFrame
+  * Contacts DataFrame
+  * Crowdfunding Database (SQL Schema)
+    * ERD of DataFrames
+>>>>>>> fdd42520a43a8f4ab02bb8a6bfc43096b6d87f57
